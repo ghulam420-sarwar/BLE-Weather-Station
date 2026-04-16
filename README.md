@@ -2,7 +2,7 @@
 
 A battery-powered ESP32 weather station that measures temperature, humidity, and pressure with a BME280, shows readings on a small OLED, and broadcasts them wirelessly over **Bluetooth Low Energy (BLE GATT)**. Connect with the nRF Connect app or the included Python script — no Wi-Fi or internet required.
 
-![Circuit diagram](images/circuit_diagram.png)
+![Circuit diagram](https://github.com/ghulam420-sarwar/Smart-Home-Automation/blob/main/circuit_diagram.png)
 
 ## Highlights
 
